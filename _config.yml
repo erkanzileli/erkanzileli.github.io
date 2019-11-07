@@ -20,7 +20,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 3
+  limit: 6
   exclude:
     archived: false
     forks: true
@@ -29,17 +29,17 @@ projects:
       - hotels-reservation-automation
 
   social_media:
-    website: https://erkanzileli.netlify.com
+    # website: https://erkanzileli.netlify.com
     # behance: your_username
     # dribbble: your_username
     # facebook: your_username
     # hackerrank: your_username
     # instagram: your_username
     # keybase: your_username
-    # linkedin: your_username
+    linkedin: erkanzileli
     # mastodon: your_username
-    # medium: your_username
-    # stackoverflow: your_user_id
+    medium: erkanzileli
+    stackoverflow: 9183701
     # telegram: your_username
     # twitter: your_username
     # unsplash: your_username
